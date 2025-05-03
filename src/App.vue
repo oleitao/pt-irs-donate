@@ -7,7 +7,7 @@
       :small="!$vuetify.breakpoint.mdAndUp"
       class="github-btn"
       target="_blank"
-      href="https://github.com/oleitao/irs-donate/"
+      href="https://github.com/oleitao/pt-irs-donate/"
       ><v-icon>mdi-github</v-icon></v-btn
     >
     <v-container class="mb-10">
