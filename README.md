@@ -16,8 +16,9 @@ Follow the steps below to set up, build, serve, lint, and deploy the project.
 
 Install all project dependencies:
 
+```
 npm install
-
+```
 
 
 ### Build
@@ -32,8 +33,9 @@ npm run build
 
 Start a local development server to preview the project at [http://localhost:8080/](http://localhost:8080/):
 
-
+```
 npm run serve
+```
 
 
 
@@ -41,16 +43,18 @@ npm run serve
 
 Check the codebase for style and syntax issues:
 
+```
 npm run lint
-
+```
 
 
 ### Deploy
 
 Deploy the built project to the configured environment:
 
+```
 npm run deploy
-
+```
 
 
 ---
